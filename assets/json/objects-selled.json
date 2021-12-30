@@ -1,0 +1,650 @@
+[
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Однокімнатна квартира",
+		"href": "#",
+		"howRooms": 5,
+		"howPrice": 1,
+		"where": "center"
+	},
+	{
+		"img": "../assets/images/hata2.png",
+		"suptitle": "Кропивницький, пл. Лесі Українки, 81",
+		"title": "Двухкiмнатна квартира",
+		"href": "#",
+		"howRooms": 2,
+		"howPrice": 232,
+		"where": "naberegna"
+	},
+	{
+		"img": "../assets/images/hata3.png",
+		"suptitle": "просп. Копиленка, 54",
+		"title": "Трехкімнатна квартира",
+		"href": "#",
+		"howRooms": 3,
+		"howPrice": 687,
+		"where": "krihivci"
+	},
+	{
+		"img": "../assets/images/hata4.png",
+		"suptitle": "просп. Паторжинського, 49",
+		"title": "Четырехкімнатна квартира",
+		"href": "#",
+		"howRooms": 4,
+		"howPrice": 871,
+		"where": "kaskad"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "вул. Солом’янська, 06",
+		"title": "Пятикімнатна квартира",
+		"href": "#",
+		"howRooms": 5,
+		"howPrice": 983,
+		"where": "pasichna"
+	},
+	{
+		"img": "../assets/images/hata2.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Однокімнатна квартира",
+		"href": "#",
+		"howRooms": 1,
+		"howPrice": 103,
+		"where": "pasichna"
+	},
+	{
+		"img": "../assets/images/hata4.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Трехкімнатна квартира",
+		"href": "#",
+		"howRooms": 2,
+		"howPrice": 300,
+		"where": "center"
+	},
+	{
+		"img": "../assets/images/hata3.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Пятикімнатна квартира",
+		"href": "#",
+		"howRooms": 3,
+		"howPrice": 325,
+		"where": "center"
+	},
+	{
+		"img": "../assets/images/hata4.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Трехкімнатна квартира",
+		"href": "#",
+		"howRooms": 4,
+		"howPrice": 533,
+		"where": "kaskad"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Однокімнатна квартира",
+		"href": "#",
+		"howRooms": 5,
+		"howPrice": 15,
+		"where": "kaskad"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Четырехкімнатна квартира",
+		"href": "#",
+		"howRooms": 4,
+		"howPrice": 490,
+		"where": "krihivci"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Пятикімнатна квартира",
+		"href": "#",
+		"howRooms": 5,
+		"howPrice": 1000,
+		"where": "center"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Однокімнатна квартира",
+		"href": "#",
+		"howRooms": 1,
+		"howPrice": 563,
+		"where": "center"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Двухкiмнатна квартира",
+		"href": "#",
+		"howRooms": 2,
+		"howPrice": 232,
+		"where": "naberegna"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Трехкімнатна квартира",
+		"href": "#",
+		"howRooms": 3,
+		"howPrice": 687,
+		"where": "krihivci"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Четырехкімнатна квартира",
+		"href": "#",
+		"howRooms": 4,
+		"howPrice": 871,
+		"where": "kaskad"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Пятикімнатна квартира",
+		"href": "#",
+		"howRooms": 5,
+		"howPrice": 999,
+		"where": "pasichna"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Однокімнатна квартира",
+		"href": "#",
+		"howRooms": 1,
+		"howPrice": 103,
+		"where": "pasichna"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Трехкімнатна квартира",
+		"href": "#",
+		"howRooms": 3,
+		"howPrice": 300,
+		"where": "center"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Пятикімнатна квартира",
+		"href": "#",
+		"howRooms": 5,
+		"howPrice": 901,
+		"where": "center"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Трехкімнатна квартира",
+		"href": "#",
+		"howRooms": 3,
+		"howPrice": 599,
+		"where": "kaskad"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Однокімнатна квартира",
+		"href": "#",
+		"howRooms": 1,
+		"howPrice": 1,
+		"where": "kaskad"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Четырехкімнатна квартира",
+		"href": "#",
+		"howRooms": 4,
+		"howPrice": 490,
+		"where": "krihivci"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Пятикімнатна квартира",
+		"href": "#",
+		"howRooms": 5,
+		"howPrice": 1000,
+		"where": "center"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Однокімнатна квартира",
+		"href": "#",
+		"howRooms": 1,
+		"howPrice": 563,
+		"where": "center"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Двухкiмнатна квартира",
+		"href": "#",
+		"howRooms": 2,
+		"howPrice": 232,
+		"where": "naberegna"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Трехкімнатна квартира",
+		"href": "#",
+		"howRooms": 3,
+		"howPrice": 687,
+		"where": "krihivci"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Четырехкімнатна квартира",
+		"href": "#",
+		"howRooms": 4,
+		"howPrice": 871,
+		"where": "kaskad"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Пятикімнатна квартира",
+		"href": "#",
+		"howRooms": 5,
+		"howPrice": 999,
+		"where": "pasichna"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Однокімнатна квартира",
+		"href": "#",
+		"howRooms": 1,
+		"howPrice": 103,
+		"where": "pasichna"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Трехкімнатна квартира",
+		"href": "#",
+		"howRooms": 3,
+		"howPrice": 300,
+		"where": "center"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Пятикімнатна квартира",
+		"href": "#",
+		"howRooms": 5,
+		"howPrice": 901,
+		"where": "center"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Трехкімнатна квартира",
+		"href": "#",
+		"howRooms": 3,
+		"howPrice": 599,
+		"where": "kaskad"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Однокімнатна квартира",
+		"href": "#",
+		"howRooms": 1,
+		"howPrice": 1,
+		"where": "kaskad"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Четырехкімнатна квартира",
+		"href": "#",
+		"howRooms": 4,
+		"howPrice": 490,
+		"where": "krihivci"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Пятикімнатна квартира",
+		"href": "#",
+		"howRooms": 5,
+		"howPrice": 1000,
+		"where": "center"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Однокімнатна квартира",
+		"href": "#",
+		"howRooms": 1,
+		"howPrice": 563,
+		"where": "center"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Двухкiмнатна квартира",
+		"href": "#",
+		"howRooms": 2,
+		"howPrice": 232,
+		"where": "naberegna"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Трехкімнатна квартира",
+		"href": "#",
+		"howRooms": 3,
+		"howPrice": 687,
+		"where": "krihivci"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Четырехкімнатна квартира",
+		"href": "#",
+		"howRooms": 4,
+		"howPrice": 871,
+		"where": "kaskad"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Пятикімнатна квартира",
+		"href": "#",
+		"howRooms": 5,
+		"howPrice": 999,
+		"where": "pasichna"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Однокімнатна квартира",
+		"href": "#",
+		"howRooms": 1,
+		"howPrice": 103,
+		"where": "pasichna"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Трехкімнатна квартира",
+		"href": "#",
+		"howRooms": 3,
+		"howPrice": 300,
+		"where": "center"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Пятикімнатна квартира",
+		"href": "#",
+		"howRooms": 5,
+		"howPrice": 901,
+		"where": "center"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Трехкімнатна квартира",
+		"href": "#",
+		"howRooms": 3,
+		"howPrice": 599,
+		"where": "kaskad"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Однокімнатна квартира",
+		"href": "#",
+		"howRooms": 1,
+		"howPrice": 1,
+		"where": "kaskad"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Четырехкімнатна квартира",
+		"href": "#",
+		"howRooms": 4,
+		"howPrice": 490,
+		"where": "krihivci"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Пятикімнатна квартира",
+		"href": "#",
+		"howRooms": 5,
+		"howPrice": 1000,
+		"where": "center"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Однокімнатна квартира",
+		"href": "#",
+		"howRooms": 1,
+		"howPrice": 563,
+		"where": "center"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Двухкiмнатна квартира",
+		"href": "#",
+		"howRooms": 2,
+		"howPrice": 232,
+		"where": "naberegna"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Трехкімнатна квартира",
+		"href": "#",
+		"howRooms": 3,
+		"howPrice": 687,
+		"where": "krihivci"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Четырехкімнатна квартира",
+		"href": "#",
+		"howRooms": 4,
+		"howPrice": 871,
+		"where": "kaskad"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Пятикімнатна квартира",
+		"href": "#",
+		"howRooms": 5,
+		"howPrice": 999,
+		"where": "pasichna"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Однокімнатна квартира",
+		"href": "#",
+		"howRooms": 1,
+		"howPrice": 103,
+		"where": "pasichna"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Трехкімнатна квартира",
+		"href": "#",
+		"howRooms": 3,
+		"howPrice": 300,
+		"where": "center"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Пятикімнатна квартира",
+		"href": "#",
+		"howRooms": 5,
+		"howPrice": 901,
+		"where": "center"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Трехкімнатна квартира",
+		"href": "#",
+		"howRooms": 3,
+		"howPrice": 599,
+		"where": "kaskad"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Однокімнатна квартира",
+		"href": "#",
+		"howRooms": 1,
+		"howPrice": 1,
+		"where": "kaskad"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Четырехкімнатна квартира",
+		"href": "#",
+		"howRooms": 4,
+		"howPrice": 490,
+		"where": "krihivci"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Пятикімнатна квартира",
+		"href": "#",
+		"howRooms": 5,
+		"howPrice": 1000,
+		"where": "center"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Однокімнатна квартира",
+		"href": "#",
+		"howRooms": 1,
+		"howPrice": 563,
+		"where": "center"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Двухкiмнатна квартира",
+		"href": "#",
+		"howRooms": 2,
+		"howPrice": 232,
+		"where": "naberegna"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Трехкімнатна квартира",
+		"href": "#",
+		"howRooms": 3,
+		"howPrice": 687,
+		"where": "krihivci"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Четырехкімнатна квартира",
+		"href": "#",
+		"howRooms": 4,
+		"howPrice": 871,
+		"where": "kaskad"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Пятикімнатна квартира",
+		"href": "#",
+		"howRooms": 5,
+		"howPrice": 999,
+		"where": "pasichna"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Однокімнатна квартира",
+		"href": "#",
+		"howRooms": 1,
+		"howPrice": 103,
+		"where": "pasichna"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Трехкімнатна квартира",
+		"href": "#",
+		"howRooms": 3,
+		"howPrice": 300,
+		"where": "center"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Пятикімнатна квартира",
+		"href": "#",
+		"howRooms": 5,
+		"howPrice": 901,
+		"where": "center"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Трехкімнатна квартира",
+		"href": "#",
+		"howRooms": 3,
+		"howPrice": 599,
+		"where": "kaskad"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Однокімнатна квартира",
+		"href": "#",
+		"howRooms": 1,
+		"howPrice": 1,
+		"where": "kaskad"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Четырехкімнатна квартира",
+		"href": "#",
+		"howRooms": 4,
+		"howPrice": 490,
+		"where": "krihivci"
+	},
+	{
+		"img": "../assets/images/hata1.png",
+		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
+		"title": "Пятикімнатна квартира",
+		"href": "#",
+		"howRooms": 5,
+		"howPrice": 100,
+		"where": "center"
+	}
+]
