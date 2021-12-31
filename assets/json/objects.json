@@ -1,6 +1,6 @@
 [
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Однокімнатна квартира",
 		"href": "object1.html",
@@ -9,7 +9,7 @@
 		"where": "center"
 	},
 	{
-		"img": "../assets/images/hata2.png",
+		"img": "assets/images/hata2.png",
 		"suptitle": "Кропивницький, пл. Лесі Українки, 81",
 		"title": "Двухкiмнатна квартира",
 		"href": "object1.html",
@@ -18,7 +18,7 @@
 		"where": "naberegna"
 	},
 	{
-		"img": "../assets/images/hata3.png",
+		"img": "assets/images/hata3.png",
 		"suptitle": "просп. Копиленка, 54",
 		"title": "Трехкімнатна квартира",
 		"href": "object1.html",
@@ -27,7 +27,7 @@
 		"where": "krihivci"
 	},
 	{
-		"img": "../assets/images/hata4.png",
+		"img": "assets/images/hata4.png",
 		"suptitle": "просп. Паторжинського, 49",
 		"title": "Четырехкімнатна квартира",
 		"href": "object1.html",
@@ -36,7 +36,7 @@
 		"where": "kaskad"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "вул. Солом’янська, 06",
 		"title": "Пятикімнатна квартира",
 		"href": "object1.html",
@@ -45,7 +45,7 @@
 		"where": "pasichna"
 	},
 	{
-		"img": "../assets/images/hata2.png",
+		"img": "assets/images/hata2.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Однокімнатна квартира",
 		"href": "object1.html",
@@ -54,7 +54,7 @@
 		"where": "pasichna"
 	},
 	{
-		"img": "../assets/images/hata4.png",
+		"img": "assets/images/hata4.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Трехкімнатна квартира",
 		"href": "object1.html",
@@ -63,7 +63,7 @@
 		"where": "center"
 	},
 	{
-		"img": "../assets/images/hata3.png",
+		"img": "assets/images/hata3.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Пятикімнатна квартира",
 		"href": "object1.html",
@@ -72,7 +72,7 @@
 		"where": "center"
 	},
 	{
-		"img": "../assets/images/hata4.png",
+		"img": "assets/images/hata4.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Трехкімнатна квартира",
 		"href": "object1.html",
@@ -81,7 +81,7 @@
 		"where": "kaskad"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Однокімнатна квартира",
 		"href": "object1.html",
@@ -90,7 +90,7 @@
 		"where": "kaskad"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Четырехкімнатна квартира",
 		"href": "object1.html",
@@ -99,7 +99,7 @@
 		"where": "krihivci"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Пятикімнатна квартира",
 		"href": "object1.html",
@@ -108,7 +108,7 @@
 		"where": "center"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Однокімнатна квартира",
 		"href": "object1.html",
@@ -117,7 +117,7 @@
 		"where": "center"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Двухкiмнатна квартира",
 		"href": "object1.html",
@@ -126,7 +126,7 @@
 		"where": "naberegna"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Трехкімнатна квартира",
 		"href": "object1.html",
@@ -135,7 +135,7 @@
 		"where": "krihivci"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Четырехкімнатна квартира",
 		"href": "object1.html",
@@ -144,7 +144,7 @@
 		"where": "kaskad"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Пятикімнатна квартира",
 		"href": "object1.html",
@@ -153,7 +153,7 @@
 		"where": "pasichna"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Однокімнатна квартира",
 		"href": "object1.html",
@@ -162,7 +162,7 @@
 		"where": "pasichna"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Трехкімнатна квартира",
 		"href": "object1.html",
@@ -171,7 +171,7 @@
 		"where": "center"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Пятикімнатна квартира",
 		"href": "object1.html",
@@ -180,7 +180,7 @@
 		"where": "center"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Трехкімнатна квартира",
 		"href": "object1.html",
@@ -189,7 +189,7 @@
 		"where": "kaskad"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Однокімнатна квартира",
 		"href": "object1.html",
@@ -198,7 +198,7 @@
 		"where": "kaskad"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Четырехкімнатна квартира",
 		"href": "object1.html",
@@ -207,7 +207,7 @@
 		"where": "krihivci"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Пятикімнатна квартира",
 		"href": "object1.html",
@@ -216,7 +216,7 @@
 		"where": "center"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Однокімнатна квартира",
 		"href": "object1.html",
@@ -225,7 +225,7 @@
 		"where": "center"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Двухкiмнатна квартира",
 		"href": "object1.html",
@@ -234,7 +234,7 @@
 		"where": "naberegna"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Трехкімнатна квартира",
 		"href": "object1.html",
@@ -243,7 +243,7 @@
 		"where": "krihivci"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Четырехкімнатна квартира",
 		"href": "object1.html",
@@ -252,7 +252,7 @@
 		"where": "kaskad"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Пятикімнатна квартира",
 		"href": "object1.html",
@@ -261,7 +261,7 @@
 		"where": "pasichna"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Однокімнатна квартира",
 		"href": "object1.html",
@@ -270,7 +270,7 @@
 		"where": "pasichna"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Трехкімнатна квартира",
 		"href": "object1.html",
@@ -279,7 +279,7 @@
 		"where": "center"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Пятикімнатна квартира",
 		"href": "object1.html",
@@ -288,7 +288,7 @@
 		"where": "center"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Трехкімнатна квартира",
 		"href": "object1.html",
@@ -297,7 +297,7 @@
 		"where": "kaskad"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Однокімнатна квартира",
 		"href": "object1.html",
@@ -306,7 +306,7 @@
 		"where": "kaskad"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Четырехкімнатна квартира",
 		"href": "object1.html",
@@ -315,7 +315,7 @@
 		"where": "krihivci"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Пятикімнатна квартира",
 		"href": "object1.html",
@@ -324,7 +324,7 @@
 		"where": "center"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Однокімнатна квартира",
 		"href": "object1.html",
@@ -333,7 +333,7 @@
 		"where": "center"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Двухкiмнатна квартира",
 		"href": "object1.html",
@@ -342,7 +342,7 @@
 		"where": "naberegna"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Трехкімнатна квартира",
 		"href": "object1.html",
@@ -351,7 +351,7 @@
 		"where": "krihivci"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Четырехкімнатна квартира",
 		"href": "object1.html",
@@ -360,7 +360,7 @@
 		"where": "kaskad"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Пятикімнатна квартира",
 		"href": "object1.html",
@@ -369,7 +369,7 @@
 		"where": "pasichna"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Однокімнатна квартира",
 		"href": "object1.html",
@@ -378,7 +378,7 @@
 		"where": "pasichna"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Трехкімнатна квартира",
 		"href": "object1.html",
@@ -387,7 +387,7 @@
 		"where": "center"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Пятикімнатна квартира",
 		"href": "object1.html",
@@ -396,7 +396,7 @@
 		"where": "center"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Трехкімнатна квартира",
 		"href": "object1.html",
@@ -405,7 +405,7 @@
 		"where": "kaskad"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Однокімнатна квартира",
 		"href": "object1.html",
@@ -414,7 +414,7 @@
 		"where": "kaskad"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Четырехкімнатна квартира",
 		"href": "object1.html",
@@ -423,7 +423,7 @@
 		"where": "krihivci"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Пятикімнатна квартира",
 		"href": "object1.html",
@@ -432,7 +432,7 @@
 		"where": "center"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Однокімнатна квартира",
 		"href": "object1.html",
@@ -441,7 +441,7 @@
 		"where": "center"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Двухкiмнатна квартира",
 		"href": "object1.html",
@@ -450,7 +450,7 @@
 		"where": "naberegna"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Трехкімнатна квартира",
 		"href": "object1.html",
@@ -459,7 +459,7 @@
 		"where": "krihivci"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Четырехкімнатна квартира",
 		"href": "object1.html",
@@ -468,7 +468,7 @@
 		"where": "kaskad"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Пятикімнатна квартира",
 		"href": "object1.html",
@@ -477,7 +477,7 @@
 		"where": "pasichna"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Однокімнатна квартира",
 		"href": "object1.html",
@@ -486,7 +486,7 @@
 		"where": "pasichna"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Трехкімнатна квартира",
 		"href": "object1.html",
@@ -495,7 +495,7 @@
 		"where": "center"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Пятикімнатна квартира",
 		"href": "object1.html",
@@ -504,7 +504,7 @@
 		"where": "center"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Трехкімнатна квартира",
 		"href": "object1.html",
@@ -513,7 +513,7 @@
 		"where": "kaskad"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Однокімнатна квартира",
 		"href": "object1.html",
@@ -522,7 +522,7 @@
 		"where": "kaskad"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Четырехкімнатна квартира",
 		"href": "object1.html",
@@ -531,7 +531,7 @@
 		"where": "krihivci"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Пятикімнатна квартира",
 		"href": "object1.html",
@@ -540,7 +540,7 @@
 		"where": "center"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Однокімнатна квартира",
 		"href": "object1.html",
@@ -549,7 +549,7 @@
 		"where": "center"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Двухкiмнатна квартира",
 		"href": "object1.html",
@@ -558,7 +558,7 @@
 		"where": "naberegna"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Трехкімнатна квартира",
 		"href": "object1.html",
@@ -567,7 +567,7 @@
 		"where": "krihivci"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Четырехкімнатна квартира",
 		"href": "object1.html",
@@ -576,7 +576,7 @@
 		"where": "kaskad"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Пятикімнатна квартира",
 		"href": "object1.html",
@@ -585,7 +585,7 @@
 		"where": "pasichna"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Однокімнатна квартира",
 		"href": "object1.html",
@@ -594,7 +594,7 @@
 		"where": "pasichna"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Трехкімнатна квартира",
 		"href": "object1.html",
@@ -603,7 +603,7 @@
 		"where": "center"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Пятикімнатна квартира",
 		"href": "object1.html",
@@ -612,7 +612,7 @@
 		"where": "center"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Трехкімнатна квартира",
 		"href": "object1.html",
@@ -621,7 +621,7 @@
 		"where": "kaskad"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Однокімнатна квартира",
 		"href": "object1.html",
@@ -630,7 +630,7 @@
 		"where": "kaskad"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Четырехкімнатна квартира",
 		"href": "object1.html",
@@ -639,7 +639,7 @@
 		"where": "krihivci"
 	},
 	{
-		"img": "../assets/images/hata1.png",
+		"img": "assets/images/hata1.png",
 		"suptitle": "“Калинова Слобода” вул. Двірська, 15",
 		"title": "Пятикімнатна квартира",
 		"href": "object1.html",

@@ -1,289 +1,289 @@
 [
 	{
-		"img": "../assets/images/agent1.png",
+		"img": "assets/images/agent1.png",
 		"achivements": [
-			"../assets/images/znak1.png",
-			"../assets/images/znak2.png",
-			"../assets/images/znak3.png"
+			"assets/images/znak1.png",
+			"assets/images/znak2.png",
+			"assets/images/znak3.png"
 		],
 		"suptitle": "Сертифікований ріелтор ИАП",
 		"title": "Штиркало Наталя",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent2.png",
+		"img": "assets/images/agent2.png",
 		"achivements": [
-			"../assets/images/znak2.png"
+			"assets/images/znak2.png"
 		],
 		"suptitle": "Сертифікований ріелтор АФНУ",
 		"title": "Людмила Петровна",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent3.png",
+		"img": "assets/images/agent3.png",
 		"achivements": [
-			"../assets/images/znak1.png"
+			"assets/images/znak1.png"
 		],
 		"suptitle": "Просто хороший человек",
 		"title": "Виталий Кличко",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent1.png",
+		"img": "assets/images/agent1.png",
 		"achivements": [
-			"../assets/images/znak1.png",
-			"../assets/images/znak2.png",
-			"../assets/images/znak3.png"
+			"assets/images/znak1.png",
+			"assets/images/znak2.png",
+			"assets/images/znak3.png"
 		],
 		"suptitle": "Сертифікований ріелтор ИАП",
 		"title": "Штиркало Наталя",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent2.png",
+		"img": "assets/images/agent2.png",
 		"achivements": [
-			"../assets/images/znak2.png"
+			"assets/images/znak2.png"
 		],
 		"suptitle": "Сертифікований ріелтор АФНУ",
 		"title": "Людмила Петровна",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent3.png",
+		"img": "assets/images/agent3.png",
 		"achivements": [
-			"../assets/images/znak1.png"
+			"assets/images/znak1.png"
 		],
 		"suptitle": "Просто хороший человек",
 		"title": "Виталий Кличко",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent1.png",
+		"img": "assets/images/agent1.png",
 		"achivements": [
-			"../assets/images/znak1.png",
-			"../assets/images/znak2.png",
-			"../assets/images/znak3.png"
+			"assets/images/znak1.png",
+			"assets/images/znak2.png",
+			"assets/images/znak3.png"
 		],
 		"suptitle": "Сертифікований ріелтор ИАП",
 		"title": "Штиркало Наталя",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent2.png",
+		"img": "assets/images/agent2.png",
 		"achivements": [
-			"../assets/images/znak2.png"
+			"assets/images/znak2.png"
 		],
 		"suptitle": "Сертифікований ріелтор АФНУ",
 		"title": "Людмила Петровна",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent3.png",
+		"img": "assets/images/agent3.png",
 		"achivements": [
-			"../assets/images/znak1.png"
+			"assets/images/znak1.png"
 		],
 		"suptitle": "Просто хороший человек",
 		"title": "Виталий Кличко",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent1.png",
+		"img": "assets/images/agent1.png",
 		"achivements": [
-			"../assets/images/znak1.png",
-			"../assets/images/znak2.png",
-			"../assets/images/znak3.png"
+			"assets/images/znak1.png",
+			"assets/images/znak2.png",
+			"assets/images/znak3.png"
 		],
 		"suptitle": "Сертифікований ріелтор ИАП",
 		"title": "Штиркало Наталя",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent2.png",
+		"img": "assets/images/agent2.png",
 		"achivements": [
-			"../assets/images/znak2.png"
+			"assets/images/znak2.png"
 		],
 		"suptitle": "Сертифікований ріелтор АФНУ",
 		"title": "Людмила Петровна",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent3.png",
+		"img": "assets/images/agent3.png",
 		"achivements": [
-			"../assets/images/znak1.png"
+			"assets/images/znak1.png"
 		],
 		"suptitle": "Просто хороший человек",
 		"title": "Виталий Кличко",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent1.png",
+		"img": "assets/images/agent1.png",
 		"achivements": [
-			"../assets/images/znak1.png",
-			"../assets/images/znak2.png",
-			"../assets/images/znak3.png"
+			"assets/images/znak1.png",
+			"assets/images/znak2.png",
+			"assets/images/znak3.png"
 		],
 		"suptitle": "Сертифікований ріелтор ИАП",
 		"title": "Штиркало Наталя",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent2.png",
+		"img": "assets/images/agent2.png",
 		"achivements": [
-			"../assets/images/znak2.png"
+			"assets/images/znak2.png"
 		],
 		"suptitle": "Сертифікований ріелтор АФНУ",
 		"title": "Людмила Петровна",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent3.png",
+		"img": "assets/images/agent3.png",
 		"achivements": [
-			"../assets/images/znak1.png"
+			"assets/images/znak1.png"
 		],
 		"suptitle": "Просто хороший человек",
 		"title": "Виталий Кличко",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent1.png",
+		"img": "assets/images/agent1.png",
 		"achivements": [
-			"../assets/images/znak1.png",
-			"../assets/images/znak2.png",
-			"../assets/images/znak3.png"
+			"assets/images/znak1.png",
+			"assets/images/znak2.png",
+			"assets/images/znak3.png"
 		],
 		"suptitle": "Сертифікований ріелтор ИАП",
 		"title": "Штиркало Наталя",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent2.png",
+		"img": "assets/images/agent2.png",
 		"achivements": [
-			"../assets/images/znak2.png"
+			"assets/images/znak2.png"
 		],
 		"suptitle": "Сертифікований ріелтор АФНУ",
 		"title": "Людмила Петровна",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent3.png",
+		"img": "assets/images/agent3.png",
 		"achivements": [
-			"../assets/images/znak1.png"
+			"assets/images/znak1.png"
 		],
 		"suptitle": "Просто хороший человек",
 		"title": "Виталий Кличко",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent1.png",
+		"img": "assets/images/agent1.png",
 		"achivements": [
-			"../assets/images/znak1.png",
-			"../assets/images/znak2.png",
-			"../assets/images/znak3.png"
+			"assets/images/znak1.png",
+			"assets/images/znak2.png",
+			"assets/images/znak3.png"
 		],
 		"suptitle": "Сертифікований ріелтор ИАП",
 		"title": "Штиркало Наталя",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent2.png",
+		"img": "assets/images/agent2.png",
 		"achivements": [
-			"../assets/images/znak2.png"
+			"assets/images/znak2.png"
 		],
 		"suptitle": "Сертифікований ріелтор АФНУ",
 		"title": "Людмила Петровна",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent3.png",
+		"img": "assets/images/agent3.png",
 		"achivements": [
-			"../assets/images/znak1.png"
+			"assets/images/znak1.png"
 		],
 		"suptitle": "Просто хороший человек",
 		"title": "Виталий Кличко",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent1.png",
+		"img": "assets/images/agent1.png",
 		"achivements": [
-			"../assets/images/znak1.png",
-			"../assets/images/znak2.png",
-			"../assets/images/znak3.png"
+			"assets/images/znak1.png",
+			"assets/images/znak2.png",
+			"assets/images/znak3.png"
 		],
 		"suptitle": "Сертифікований ріелтор ИАП",
 		"title": "Штиркало Наталя",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent2.png",
+		"img": "assets/images/agent2.png",
 		"achivements": [
-			"../assets/images/znak2.png"
+			"assets/images/znak2.png"
 		],
 		"suptitle": "Сертифікований ріелтор АФНУ",
 		"title": "Людмила Петровна",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent3.png",
+		"img": "assets/images/agent3.png",
 		"achivements": [
-			"../assets/images/znak1.png"
+			"assets/images/znak1.png"
 		],
 		"suptitle": "Просто хороший человек",
 		"title": "Виталий Кличко",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent1.png",
+		"img": "assets/images/agent1.png",
 		"achivements": [
-			"../assets/images/znak1.png",
-			"../assets/images/znak2.png",
-			"../assets/images/znak3.png"
+			"assets/images/znak1.png",
+			"assets/images/znak2.png",
+			"assets/images/znak3.png"
 		],
 		"suptitle": "Сертифікований ріелтор ИАП",
 		"title": "Штиркало Наталя",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent2.png",
+		"img": "assets/images/agent2.png",
 		"achivements": [
-			"../assets/images/znak2.png"
+			"assets/images/znak2.png"
 		],
 		"suptitle": "Сертифікований ріелтор АФНУ",
 		"title": "Людмила Петровна",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent3.png",
+		"img": "assets/images/agent3.png",
 		"achivements": [
-			"../assets/images/znak1.png"
+			"assets/images/znak1.png"
 		],
 		"suptitle": "Просто хороший человек",
 		"title": "Виталий Кличко",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent1.png",
+		"img": "assets/images/agent1.png",
 		"achivements": [
-			"../assets/images/znak1.png",
-			"../assets/images/znak2.png",
-			"../assets/images/znak3.png"
+			"assets/images/znak1.png",
+			"assets/images/znak2.png",
+			"assets/images/znak3.png"
 		],
 		"suptitle": "Сертифікований ріелтор ИАП",
 		"title": "Штиркало Наталя",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent2.png",
+		"img": "assets/images/agent2.png",
 		"achivements": [
-			"../assets/images/znak2.png"
+			"assets/images/znak2.png"
 		],
 		"suptitle": "Сертифікований ріелтор АФНУ",
 		"title": "Людмила Петровна",
 		"href": "agent1.html"
 	},
 	{
-		"img": "../assets/images/agent3.png",
+		"img": "assets/images/agent3.png",
 		"achivements": [
-			"../assets/images/znak1.png"
+			"assets/images/znak1.png"
 		],
 		"suptitle": "Просто хороший человек",
 		"title": "Виталий Кличко",
