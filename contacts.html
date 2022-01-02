@@ -3,22 +3,23 @@
 			const uluru = { lat: 50.460, lng: 30.469 };
 			// The map, centered at Uluru
 			const map = new google.maps.Map(document.getElementById("map"), {
-				zoom: 15,
+				zoom: 13,
 				center: uluru,
 				zoomControl: false,
 				disableDoubleClickZoom: true,
-				mapTypeControl: true,
+				mapTypeControl: false,
 				scaleControl: false,
-				scrollwheel: true,
+				gestureHandling:"greedy",
 				panControl: false,
 				streetViewControl: true,
 				draggable: true,
 				overviewMapControl: false,
 				fullscreenControl: false,
+				
 			});
 			let icon = {
-				url: 'https://pngicon.ru/file/uploads/geometka.png',
-				labelOrigin: new google.maps.Point(120, 20),
+				url: './assets/images/pointer.png',
+				labelOrigin: new google.maps.Point(120, 25),
 				scaledSize: new google.maps.Size(50, 50)
 
 			};
@@ -31,7 +32,7 @@
 					color: 'black',
 					className: 'map-marker-label',
 					fontWeight: '600',
-					fontSize: '20px',
+					fontSize: '17px',
 
 
 
